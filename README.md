@@ -1,5 +1,5 @@
 # hello-world
-A repository is the folder where all files and codes are saved.
+A repository is a folder that contains all the information that is required for a project, such as folders, files, codes, data, picture, videos, etc.
 When you start a project, create a jira, in which, create a new branch using checkout.
 A branch is a copy of another branch (such as the main). This branch is remote.
 git pull the remote respository to your local machine and all the changes are done in your local copy.
