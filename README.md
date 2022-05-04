@@ -7,4 +7,4 @@ Once the change is done, commit the change. 'commit' is to tell Git to save the 
 If you make changes to many files but only want a version control of some of the files, use 'add' before commit.
 Once all the changes are done and commited, it is time to push the changes to the remote branch.
 pull request is to ask other people to do code review and an approval for a merge.
-Once the pull request is approval, you can merge your remote branch to the main branch.
+Once a pull request is approval, you can merge your remote branch to the main branch.
